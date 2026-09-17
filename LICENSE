@@ -1,21 +1,97 @@
-MIT License
+xaloAC ÖZEL LİSANSI
+Sürüm 1.0 — 17 Eylül 2026
 
-Copyright (c) 2026 xaloAC
+Copyright (c) 2026 x410m1s0. Tüm hakları saklıdır.
+xaloAC adı, logosu, görsel kimliği, ürün metinleri ve ilişkili marka unsurları
+x410m1s0'ın mülkiyetindedir.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Tanımlar
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Yazılım", bu depoda bulunan kaynak kodunu, yapılandırmaları, dokümantasyonu,
+arayüzü ve dağıtım dosyalarını ifade eder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Sahip", xaloAC markasının ve bu Yazılımın sahibi ve yazarı olan x410m1s0'ı
+ifade eder.
+
+"Yetkili kullanıcı", bu lisansın koşullarını kabul eden ve Yazılımı yalnızca
+yasal olarak test etme yetkisine sahip olduğu sistemlerde kullanan kişidir.
+
+2. Sınırlı kullanım izni
+
+Sahip, Yetkili kullanıcıya aşağıdaki sınırlı, münhasır olmayan, devredilemez
+ve geri alınabilir izinleri verir:
+
+- Yazılımı kişisel, eğitimsel ve yetkili güvenlik araştırmaları için çalıştırmak.
+- Yazılımı yerel bir geliştirme veya değerlendirme ortamında incelemek.
+- Kaynak kodunu değiştirmek ve değişiklikleri yalnızca bu lisansın koşulları
+  altında kullanmak.
+- Yazılımı, sahibi ve lisans koşulları açıkça belirtilmek şartıyla, kapalı
+  ekip içinde değerlendirme amacıyla paylaşmak.
+
+3. Açıkça yasaklanan kullanımlar
+
+Aşağıdaki işlemler için Sahipten önceden yazılı izin alınmadıkça Yazılım
+kullanılamaz:
+
+- Yetkisiz sistem, hesap, ağ, API, uygulama veya cihaza tarama ya da istek
+  göndermek.
+- Brute force, credential stuffing, hizmet engelleme, spam, veri hırsızlığı,
+  kalıcı erişim veya zarar verme amacıyla kullanmak.
+- Scope dışı hedefleri test etmek veya hedefin rate limit ve kullanım
+  koşullarını bilerek ihlal etmek.
+- Yazılımı bir hizmet olarak, ücretli ürünün parçası olarak veya ticari
+  dağıtımda kullanmak.
+- Yazılımı yeniden satmak, yeniden lisanslamak, açık kaynak lisansı altında
+  yayımlamak veya üçüncü kişilere dağıtmak.
+- xaloAC veya x410m1s0 adını, markasını ya da ürün kimliğini sahiplik veya
+  resmi onay izlenimi verecek biçimde kullanmak.
+- Telif, marka, lisans veya güvenlik bildirimlerini kaldırmak ya da gizlemek.
+
+4. Değişiklikler
+
+Değiştirilmiş sürümler yalnızca özel, yerel ve yetkili değerlendirme amacıyla
+kullanılabilir. Değiştirilmiş sürümün paylaşılması veya dağıtılması için
+x410m1s0'ın önceden yazılı izni gerekir. İzin verilirse değişiklikler açıkça
+belirtilmeli, orijinal xaloAC sürümüyle karıştırılmamalı ve bu lisans metni
+korunmalıdır.
+
+5. Marka
+
+xaloAC adı ve ilgili marka unsurları bu lisans kapsamında devredilmez.
+Bu lisans, xaloAC markasını kullanma, tescil ettirme, alan adı olarak alma,
+uygulama adı yapma veya marka sahibi adına konuşma hakkı vermez.
+
+6. Üçüncü taraf bağımlılıklar
+
+Bu lisans yalnızca xaloAC kaynak kodu ve xaloAC'a ait dokümantasyon için
+geçerlidir. npm paketleri, Playwright ve diğer üçüncü taraf bileşenler kendi
+lisanslarına tabidir. Bu bileşenlerin lisans koşullarına kullanıcı uymak
+zorundadır.
+
+7. Sorumluluk
+
+Yazılım "OLDUĞU GİBİ" sunulur. x410m1s0; belirli bir amaca uygunluk,
+kesintisiz çalışma, güvenlik açığı bulunmaması, sonuçların doğruluğu veya
+hedef sistemlerde izinli davranış garantisi vermez.
+
+Yazılımın kullanımından, yanlış scope tanımından, yetkisiz testten, veri
+kaybından, hizmet kesintisinden veya üçüncü taraf taleplerinden doğan
+sorumluluk kullanıcıya aittir. Yürürlükteki hukukun izin verdiği en geniş
+ölçüde x410m1s0, dolaylı veya sonuç olarak ortaya çıkan zararlardan sorumlu
+değildir.
+
+8. Lisansın sona ermesi
+
+Bu lisansın koşullarından herhangi birinin ihlali halinde verilen izinler
+derhal sona erer. Kullanıcı Yazılımı kullanmayı bırakmalı ve elindeki
+dağıtılmış kopyaları silmelidir. Sona erme, Sahibin diğer yasal haklarını
+ortadan kaldırmaz.
+
+9. Yazılı izin
+
+Bu lisansın dışında kalan kullanım talepleri için x410m1s0 tarafından
+verilmiş açık ve yazılı izin gerekir. Sözlü beyanlar veya bu depoya erişim,
+ek kullanım izni anlamına gelmez.
+
+İletişim ve izin talepleri:
+x410m1s0

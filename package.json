@@ -1,0 +1,20 @@
+{
+  "name": "xaloac-bugbounty",
+  "version": "1.0.0",
+  "private": true,
+  "description": "xaloAC Bug Bounty Security Platform",
+  "author": "x410m1s0",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "check": "node --check app.js && node --check server.js && node --check scanner.js && node --check cli.js && node --check scope.js && node --check network-guard.js && node --check finding.js && node --check storage.js && node --check job-manager.js && node --check http-history.js && node --check auth-profiles.js && node --check cvss.js && node --check scan-diff.js && node --check risk.js && node --check reports.js && node --check discovery/openapi.js && node --check discovery/graphql.js && node --check lab/server.js && node --check browser/engine.js && node --check active/engine.js && node --check active/differential.js && node --check active/planner.js && node --check active/registry.js && node --check active/sqli.js && node --check active/redirect.js && node --check active/traversal.js && node --check active/idor.js && node --check active/authorization.js && node --check active/ssrf.js && node --check active/csrf.js && node --check active/ssti.js && node --check active/jwt.js && node --check active/oauth.js && node --check active/xss.js && node --check active/cors.js && node --check active/index.js",
+    "start": "node server.js",
+    "assess": "node cli.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}
